@@ -1,5 +1,6 @@
 # Репозиторий компании SLS#
 Добро пожаловать к **SLS**!
+![Image of slsLabel](http://smartlabsolutions.com/ru/templates/smartlab/images/logo.png)
 
 Основным направлением деятельности компании является разработка и продвижение решений на базе смарт-карт и элементов безопасности смартфонов.
 
@@ -13,9 +14,9 @@
 
 ## Контакты
 
-123317, Москва, Пресненская наб., 6, cтр. 2
-Тел / факс: +7 495 215 06 52
-E-Mail: info@smartlabsolutions.com 
-http://smartlabsolutions.com/ru
+123317, Москва, Пресненская наб., 6, cтр. 2.
+Тел / факс: +7 495 215 06 52.
+E-Mail: info@smartlabsolutions.com.
+http://smartlabsolutions.com/ru.
 
 ## Удачи! ##
